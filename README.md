@@ -10,12 +10,13 @@
           <ul>
             <li>🇨🇳 Mandarin: Native</li>
             <li>🇯🇵 Japanese: Near-native</li>
-            <li>🇬🇧 English: Fully proficient</li>
+            <li>🇨🇦 English: Fully proficient</li>
             <li>🇦🇪 Arabic: Currently improving</li>
+            <li>🇫🇷 French: Currently improving</li>
             <li>🇮🇷 Persian: Aspiring to learn</li>
           </ul>
         </li>
-        <li>🏠 Proud indoor person who occasionally ventures out for good company</li>
+        <li>🏠 Proud indoor person who occasionally ventures out for good food</li>
       </ul>
     </td>
     <td>
