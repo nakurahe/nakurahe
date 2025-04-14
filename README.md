@@ -9,7 +9,7 @@
         <li>🌍 Multilingual enthusiast:
           <ul>
             <li>🇨🇳 Mandarin: Native</li>
-            <li>🇯🇵 Japanese: Near-native</li>
+            <li>🇯🇵 Japanese: Fully proficient</li>
             <li>🇨🇦 English: Fully proficient</li>
             <li>🇦🇪 Arabic: Currently improving</li>
             <li>🇫🇷 French: Currently improving</li>
